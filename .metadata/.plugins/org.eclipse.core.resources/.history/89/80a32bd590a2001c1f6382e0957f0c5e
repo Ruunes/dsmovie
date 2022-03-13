@@ -1,0 +1,5 @@
+package com.SpringProjeto.dsmovie.config;
+
+public class SecurityConfig {
+
+}
