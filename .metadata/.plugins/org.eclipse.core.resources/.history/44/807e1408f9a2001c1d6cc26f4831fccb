@@ -1,0 +1,5 @@
+package com.SpringProjeto.dsmovie.respositories;
+
+public interface MovieRepository {
+
+}

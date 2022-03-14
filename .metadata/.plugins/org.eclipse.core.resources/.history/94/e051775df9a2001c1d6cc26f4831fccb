@@ -1,0 +1,5 @@
+package com.SpringProjeto.dsmovie.DTO;
+
+public class MovieDTO {
+
+}

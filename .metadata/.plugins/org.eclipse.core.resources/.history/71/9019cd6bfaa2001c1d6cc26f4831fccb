@@ -1,0 +1,17 @@
+package com.SpringProjeto.dsmovie.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.SpringProjeto.dsmovie.DTO.MovieDTO;
+
+
+
+@Service 
+public class MovieService {
+
+	public List<MovieDTO> findAll(){
+		
+	}
+}

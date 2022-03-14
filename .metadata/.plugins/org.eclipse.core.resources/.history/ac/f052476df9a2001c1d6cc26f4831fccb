@@ -1,0 +1,10 @@
+package com.SpringProjeto.dsmovie.DTO;
+
+public class MovieDTO {
+
+	private Long id;	
+	private String title;
+	private Double Score;
+	private Integer count;
+	private String image;
+}
